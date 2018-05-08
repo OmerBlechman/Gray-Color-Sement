@@ -1,0 +1,11 @@
+Description:
+
+The program gets file name of a picture in PGM format and separates the pictures into segments by threshold that the user input.
+The program saves the colored image in a compressed format and converts the compressed image to PGM picture.
+The user has a option to choose from the following options:
+
+* insert picture file name in PGM format.
+* find all gray color segment. 
+* save the colored image in a compressed format.
+* insert a picture file name, compress and save the original image in a compressed format.
+* convert a compressed image to PGM format in a file.
